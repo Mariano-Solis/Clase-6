@@ -17,3 +17,5 @@ cuenta1=Cuenta("Pedro Ramirez", 4000)
 cuenta1.mostrar()
 cuenta1.ingresar()
 cuenta1.retirar()
+
+print("Mi nombrer es Mariano")
